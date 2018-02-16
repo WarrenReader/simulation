@@ -1,0 +1,26 @@
+header {
+  background: #ab2a19;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-box {
+  width: auto;
+  height: auto;
+  position: relative;
+  left: -165px;
+}
+
+.logo {
+  width: 50px;
+  position:relative;
+  top: 13px;
+  margin-right: 10px;
+}
+
+.header-font {
+  font-size: 30px;
+}
