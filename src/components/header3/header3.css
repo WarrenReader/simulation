@@ -1,0 +1,29 @@
+.header-3-logo-box {
+  background: #ab2a19;
+  display: flex;
+  align-items: center;
+  width: 10%;
+  height: 100%;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.shelf-name-wrapper-3 {
+  display: flex;
+  align-items: center;
+  width: 20%;
+}
+
+.header-bin-num-wrapper {
+  width: 70%;
+  background: #ed6b5a;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 25px;
+  box-sizing: border-box;
+}
+
+.bin-name-style {
+  
+}
