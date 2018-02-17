@@ -1,0 +1,49 @@
+.create-bin-container {
+  width: 100%;
+  box-sizing: border-box;
+  height: calc(100% - 100px);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.Create__data_title {
+  margin-top: 0;
+  margin-left: 10px;
+  margin-bottom: 3px;
+  position: relative;
+  left: -200px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Create__data_input {
+  border: 1px solid #ab2a19;
+  border-radius: 3px;
+  padding: 12px;
+  min-width: 500px;
+  width: auto;
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+input {
+  font-weight: bold;
+  font-family: Open Sans,sans-serif
+}
+
+.Create__data_btn {
+  height: auto;
+  font-size: 30px;
+  border: none;
+  width: 526px;
+  border-radius: 3px;
+  padding: 10px 0;
+  cursor: pointer;
+  outline: none;
+  background: #40f99b;
+  font-weight: bold;
+}
